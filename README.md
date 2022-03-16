@@ -1,1 +1,1 @@
-# BSCSE
+collection of source codes
